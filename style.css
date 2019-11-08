@@ -3,8 +3,14 @@ body {
   width: 100%;
   margin: 0;
   -webkit-font-smoothing: antialiased;
-  font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans",
-    "Lucida Sans Regular", Geneva, Verdana, sans-serif;
+  font-family: 
+    "Lucida Grande",
+    "Lucida Sans Unicode",
+    "Lucida Sans",
+    "Lucida Sans Regular", 
+    Geneva,
+    Verdana,
+   sans-serif;
 }
 ul {
   list-style: none;
