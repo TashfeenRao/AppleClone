@@ -54,7 +54,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-it is an html and css base project. some Gradient styling is used for navbar.
+
 
 
 ### Built With
@@ -78,12 +78,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 Project Link: https://github.com/TashfeenRao/AppleClone.git
 Live Preview -
 
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-https://web.archive.org/web/20140301004610/http://www.apple.com/
 
 
 
