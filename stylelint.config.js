@@ -47,7 +47,7 @@ module.exports = {
     "declaration-colon-newline-after": null,
     "declaration-colon-space-after": "always-single-line",
     "declaration-colon-space-before": "never",
-    "declaration-empty-line-before": [ "always", {
+    "declaration-empty-line-before": [ null, {
       except: [
       ],
       ignore: [
