@@ -83,7 +83,10 @@ nav {
   border: 1px solid rgba(75, 75, 75, 0.8);
   border-radius: 40px;
 }
-
+.video-link i {
+  font-size: 35px;
+  margin: 10px;
+}
 .top-nav li i {
   color: aliceblue;
   font-size: 22px;
@@ -97,6 +100,10 @@ nav {
 .header-text {
   text-align: center;
 }
+footer a {
+  color: #08c;
+  text-decoration: none;
+}
 .header-text a {
   text-decoration: none;
   color: aliceblue;
@@ -109,11 +116,6 @@ nav {
 .video-link h4:hover {
   text-decoration: underline;
 }
-.video-link i {
-  font-size: 35px;
-  margin: 10px;
-}
-
 .heading {
   font-family: "Advent Pro";
   font-size: 70px;
@@ -141,10 +143,7 @@ footer {
   justify-content: center;
   align-items: center;
 }
-footer a {
-  color: #08c;
-  text-decoration: none;
-}
+
 footer a:hover {
   text-decoration: underline;
 }
