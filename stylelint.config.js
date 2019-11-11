@@ -63,7 +63,7 @@ module.exports = {
     "function-parentheses-newline-inside": "always-multi-line",
     "function-parentheses-space-inside": "never-single-line",
     "function-whitespace-after": "always",
-    "indentation": 4,
+    "indentation": null,
     "length-zero-no-unit": null,
     "max-empty-lines": 1,
     "media-feature-colon-space-after": "always",
